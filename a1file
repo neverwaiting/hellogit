@@ -1,8 +1,14 @@
 this is wintersun's second commit
 
+<<<<<<< HEAD
 this is test conflict for git-conflict neovim plugin B11
 this is test conflict for git-conflict neovim plugin B1
 this is test conflict for git-conflict neovim plugin B22
+=======
+this is test conflict for git-conflict neovim plugin B0
+this is test conflict for git-conflict neovim plugin B1
+this is test conflict for git-conflict neovim plugin B2
+>>>>>>> 5b5a4c03b71e24497375466361524f9758c45f11
 this is test conflict for git-conflict neovim plugin A0
 this is test conflict for git-conflict neovim plugin A33
 this is test conflict for git-conflict neovim plugin A2
